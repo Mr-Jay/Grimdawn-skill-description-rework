@@ -3,16 +3,11 @@ Here is a wok in progress to rework the skills description for the game grimdawn
 
 Tutorial:
 
-Download the tag_skills.txt here:
-
-https://drive.google.com/file/d/15YvFrNMbl2xm3DqhBP0D8o3WRXxIkYy2/view?usp=sharing
-
+Download the tag_skills.txt here:[https://drive.google.com/file/d/15YvFrNMbl2xm3DqhBP0D8o3WRXxIkYy2/view?usp=sharing
+](https://github.com/Mr-Jay/Grimdawn-skill-description-rework/blob/main/tags_skills.txt)
 On Windows, go in "C:\Users\000\Documents\My Games\Grim Dawn\Settings"
-
 Create a folder "text_en"
-
 Paste the file inside the folder
-
 Play and enjoy.
 
 Important information, i used chatGPt to help me rewrite the descriptions, i checked the accuracy with skills that i know, but i cannot confirm that all description are accurate, so if you find skills with wrong description, please share it here, so we can improve the file together.
