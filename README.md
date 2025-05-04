@@ -3,7 +3,7 @@ Here is a wok in progress to rework the skills description for the game grimdawn
 
 Tutorial:
 
-Download the tag_skills.txt here:[https://drive.google.com/file/d/15YvFrNMbl2xm3DqhBP0D8o3WRXxIkYy2/view?usp=sharing
+Download the tag_skills.txt here:[tag skill file
 ](https://github.com/Mr-Jay/Grimdawn-skill-description-rework/blob/main/tags_skills.txt)
 On Windows, go in "C:\Users\000\Documents\My Games\Grim Dawn\Settings"
 Create a folder "text_en"
